@@ -1,2 +1,2 @@
-# github.io
+# azcomix/en
 Azcomix English Homepage
